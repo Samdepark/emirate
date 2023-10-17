@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: opx;
+}
+/* change the styling of the screen @ a specific size*/
+@media only screen and (max-width:1024px){
+    
+}
